@@ -1,3 +1,3 @@
-##CPP Paint app##
+**CPP Paint app**
 
-More details to be added
+Details to be added..
